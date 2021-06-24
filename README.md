@@ -1,6 +1,6 @@
 ### Hello 👋 Patricia Chebet here!
 
-🌱 A Software Engineer with a keen interest in learning Machine Learning and exploring more around Data Structures and Algorithsm.
+🌱 A Software Engineer with a keen interest in learning Machine Learning and exploring more around Data Structures and Algorithms.
 📫 How to reach me: chebetcpatricia@gmail.com
 
 <!--
