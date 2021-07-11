@@ -1,8 +1,11 @@
 Hello, Patricia Chebet here!
 
 ✨ Software Engineer
+
 ✨ Learning something new: Data Structures and Algorithms.
+
 ✨ Key strengths: Restful APIs | API Design | NodeJs
+
 ✨ Reach me on: chebetcpatricia@gmail.com
 
 <!--
