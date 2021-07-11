@@ -1,7 +1,9 @@
-### Hello 👋 Patricia Chebet here!
+Hello, Patricia Chebet here!
 
-🌱 A Software Engineer with a keen interest in learning Machine Learning and exploring more around Data Structures and Algorithms.
-📫 How to reach me: chebetcpatricia@gmail.com
+✨ Software Engineer
+✨ Learning something new: Data Structures and Algorithms.
+✨ Key strengths: Restful APIs | API Design | NodeJs
+✨ Reach me on: chebetcpatricia@gmail.com
 
 <!--
 **PatriciaChebet/PatriciaChebet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
