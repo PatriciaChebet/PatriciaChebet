@@ -3,7 +3,7 @@ Hello, Patricia Chebet here!
 ✨ Software Engineer
 
 ✨ Key strengths: Restful APIs | API Design | Elixir/Phoenix 
-| ETL Pipelines | PUB and Sub Systems| Message Streaming
+| ETL Pipelines | Pub/Sub Systems| Message Streaming
 
 ✨ Reach me on: chebetcpatricia@gmail.com
 
