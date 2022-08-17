@@ -3,7 +3,7 @@ Hello, Patricia Chebet here!
 ✨ Software Engineer
 
 ✨ Key strengths: 
-- API Design and Implentation | NodeJs| Elixir/Phoenix 
+- API Design and Implentation | NodeJs | Elixir/Phoenix 
 - ETL Pipelines | Pub/Sub Systems | Message Streaming
 
 ✨ Reach me on: chebetcpatricia@gmail.com
