@@ -3,7 +3,7 @@ Hello, Patricia Chebet here!
 ✨ Software Engineer
 
 ✨ Key strengths: 
--  NodeJS | TypeScript | EmberJS | Restful APIs | ETL Pipelines
+-  NodeJS | Golang | Python | Restful APIs | ETL Pipelines
 
 ✨ Reach me on: chebetcpatricia@gmail.com
 
